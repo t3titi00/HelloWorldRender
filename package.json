@@ -18,5 +18,8 @@
   "homepage": "https://github.com/t3titi00/HelloWorldRender#readme",
   "dependencies": {
     "express": "^5.1.0"
+  },
+  "scripts": {
+    "start": "node index.js"
   }
 }
